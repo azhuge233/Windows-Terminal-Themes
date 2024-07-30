@@ -1,13 +1,12 @@
-# Evangelion-Windows-Terminal-Theme
+# Windows Terminal Themes
 
-My Evangelion Windows Terminal color scheme
+My Windows Terminal color schemes
 
-### Usage
+## Usage
 
-Add content in [theme.json](theme.json) to `schemes` section in Windows Terminal's `settings.json`.
+Add content in `theme.json` to `schemes` section in Windows Terminal's `settings.json`.
 
-### Preview
+## List
 
-![debian](./previews/debian.png)
-![nginx](./previews/nginx.png)
-![windows](./previews/windows.png)
+- [Evangelion](./Evangelion/)
+- [Twin Peaks](./Twin%20Peaks/)
