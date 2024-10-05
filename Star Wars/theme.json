@@ -1,0 +1,23 @@
+        {
+            "background": "#f2f2f2",
+            "black": "#1c2020",
+            "blue": "#343d9b",
+            "brightBlack": "#484445",
+            "brightBlue": "#1385ec",
+            "brightCyan": "#75c9fd",
+            "brightGreen": "#01fe1a",
+            "brightPurple": "#f501e2",
+            "brightRed": "#fe1e08",
+            "brightWhite": "#a7acae",
+            "brightYellow": "#c46c0e",
+            "cursorColor": "#1c2020",
+            "cyan": "#518cb0",
+            "foreground": "#1c2020",
+            "green": "#007d0c",
+            "name": "Star Wars",
+            "purple": "#b400a3",
+            "red": "#b21506",
+            "selectionBackground": "#3f3f3f",
+            "white": "#5d6061",
+            "yellow": "#784209"
+        }
